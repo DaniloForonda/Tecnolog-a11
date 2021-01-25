@@ -1,0 +1,107 @@
+#id1 {
+	width: 200px;
+	height:400px;
+	background-color:black;
+	position:relative;
+    top:30px;
+    left:-300px;
+    border-radius:30px;
+    border-style:solid;
+    border-width:thick;
+    border-color:white;
+    color:white;
+    font-family:Bahnschrift Light;
+    font-size:40px;
+}
+
+#id2 {
+	width: 200px;
+	height:400px;
+	background-color:white;
+	position:relative;
+    top:-380px;
+    left:-8px;
+    border-radius:30px;
+    border-style: solid;
+    border-width: thick;
+    border-color:black;
+    font-family:Bahnschrift Light;
+    font-size:40px;
+}
+
+#id3 {
+    width: 200px;
+    height:400px;
+    background-color:black;
+    position:relative;
+    top:-785px;
+    right:-280px;
+    border-radius:30px;
+    border-style:solid;
+    border-width:thick;
+    border-color:white;
+    color:white;
+    font-family:Bahnschrift Light;
+    font-size:40px;
+}
+
+#id4 {
+    width: 200px;
+    height:400px;
+    background-color:white;
+    position:relative;
+    top:-700px;
+    left:-300px;
+    border-radius:30px;
+    border-style:solid;
+    border-width:thick;
+    border-color:black;
+    font-family:Bahnschrift Light;
+    font-size:40px;
+}
+
+#id5 {
+    width: 200px;
+    height:400px;
+    background-color:black;
+    position:relative;
+    top:-1110px;
+    left:-8px;
+    border-radius:30px;
+    border-style: solid;
+    border-width: thick;
+    border-color:white;
+    color:white;
+    font-family:Bahnschrift Light;
+    font-size:40px;
+}
+
+#id6 {
+    width: 200px;
+    height:400px;
+    background-color:white;
+    position:relative;
+    top:-1520px;
+    right:-280px;
+    border-radius:30px;
+    border-style:solid;
+    border-width:thick;
+    border-color:black;
+    font-family:Bahnschrift Light;
+    font-size:40px;
+}
+
+#id7 {
+    width:170px;
+    height:90px;
+    background-color:lightgray;
+    position:relative;
+    border-radius:20px;
+    border-style:solid;
+    border-width:medium;
+    border-color:#292929;
+    top:-1470px;
+    right:8px;
+    font-family:Bahnschrift Light;
+    font-size:20px;
+}
