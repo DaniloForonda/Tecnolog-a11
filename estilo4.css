@@ -1,0 +1,27 @@
+#id1 {
+    width: 210px;
+    height:350px;
+    background-color:white;
+    position:relative;
+    top:50px;
+    border-radius:30px;
+    border-style: solid;
+    border-width: thick;
+    border-color:black;
+    font-family:Bahnschrift Light;
+    font-size:30px;
+}
+
+#id2 {
+    width:170px;
+    height:90px;
+    background-color:lightgray;
+    position:relative;
+    border-radius:20px;
+    border-style:double;
+    border-width:7px;
+    border-color:#292929;
+    top:100px;
+    font-family:Bahnschrift Light;
+    font-size:30px;
+}
