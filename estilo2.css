@@ -3,15 +3,15 @@
 	height:400px;
 	background-color:black;
 	position:relative;
-    top:30px;
-    left:-300px;
-    border-radius:30px;
-    border-style:solid;
-    border-width:thick;
-    border-color:white;
-    color:white;
-    font-family:Bahnschrift Light;
-    font-size:50px;
+    	top:30px;
+    	left:-300px;
+    	border-radius:30px;
+    	border-style:solid;
+	border-width:thick;
+    	border-color:white;
+    	color:white;
+ 	font-family:Bahnschrift Light;
+    	font-size:50px;
 }
 
 #id2 {
@@ -19,7 +19,7 @@
 	height:400px;
 	background-color:white;
 	position:relative;
-	top:-378px;
+	top:-375px;
 	left:-8px;
 	border-radius:30px;
     	border-style: solid;
@@ -34,7 +34,7 @@
     height:400px;
     background-color:black;
     position:relative;
-    top:-780px;
+    top:-777px;
     right:-280px;
     border-radius:30px;
     border-style:solid;
