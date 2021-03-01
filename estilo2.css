@@ -19,14 +19,14 @@
 	height:400px;
 	background-color:white;
 	position:relative;
-    top:-380px;
-    left:-8px;
-    border-radius:30px;
-    border-style: solid;
-    border-width: thick;
-    border-color:black;
-    font-family:Bahnschrift Light;
-    font-size:40px;
+	top:-380px;
+	left:-8px;
+	border-radius:30px;
+    	border-style: solid;
+    	border-width: thick;
+    	border-color:black;
+    	font-family:Bahnschrift Light;
+    	font-size:50px;
 }
 
 #id3 {
@@ -42,7 +42,7 @@
     border-color:white;
     color:white;
     font-family:Bahnschrift Light;
-    font-size:40px;
+    font-size:50px;
 }
 
 #id4 {
